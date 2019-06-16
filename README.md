@@ -15,7 +15,8 @@ Github 에서 제공하는 [Jekyll](https://jekyllrb-ko.github.io/) 툴을 사�
 
 ## Jekyll 사용법
 
-### 이미지 사용 관련
+### 이미지 사용 관련 Tips
+
  1. assets/images 폴더를 생성하고 이미지를 업로드
 
 
@@ -48,3 +49,22 @@ Github 에서 제공하는 [Jekyll](https://jekyllrb-ko.github.io/) 툴을 사�
  
   
 
+## Markdown
+
+### Markdown 사용 관련 Tips
+
+ 1. 마크다운 문서에 유튜브 링크 추가하기
+
+ 	아래와 같이 사용
+    ```
+    [![이미지 텍스트](스크린샷 이미지)](유투브링크)
+    ```
+    
+    예를 들어 아래와 같은 경우
+    ```
+    [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
+    ```
+    
+    이렇게 표시됨.
+    
+    [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
