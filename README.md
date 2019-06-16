@@ -1,6 +1,6 @@
 # FABLAB 2019 메이커아카데미  Project
 
-![FABLAB Screenshot]({{site.url}}/assets/images/FABLAB_Logo.png)
+![FABLAB Screenshot](/assets/images/FABLAB_Logo.png)
 
 
 ## Blog 관련하여...
