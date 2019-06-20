@@ -1,3 +1,11 @@
+---
+title: "Arduino Basic"
+categories:
+  - Arduino
+tags:
+  - Arduino
+---
+
 # Arduino Basic
 
 ### LED 점멸
@@ -43,7 +51,7 @@ void loop() {
     digitalWrite(12, HIGH);
     digitalWrite(13, LOW);
     delay(500);
-  
+
     digitalWrite(11, LOW);
     digitalWrite(12, LOW);
     digitalWrite(13, LOW);
