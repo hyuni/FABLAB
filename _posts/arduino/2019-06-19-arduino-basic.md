@@ -13,7 +13,9 @@ tags:
 2. loop 함수
 3. pinMode 함수
 4. digitalWrite 함수
-5. delay 함수
+5. analogRead/Write 함수
+6. delay 함수
+7. Serial 관련 함수(begin, print, println 등)
 
 ### PWM(Plus with Modulation ; 펄스 폭 변조)
 
@@ -127,7 +129,7 @@ void loop() {
   analogWrite(RED, 0);
   analogWrite(GREEN, 0);
   analogWrite(BLUE, 0);
-  
+
   for(int nLED = RED; nLED <= BLUE; nLED++) {
     analogWrite(RED, random(256));
     analogWrite(GREEN, random(256));
