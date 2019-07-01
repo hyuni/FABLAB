@@ -111,9 +111,26 @@ tags:
 2. Construct -> Offset Plane 으로 같은 방향의 높이가 다른 그림을 그릴수 있음.
 
 ### 참고 동영상 및 사이트
+
 1. [다은쌤의 Fusion 360 강의 - 기초, 기능별 배우기](https://www.youtube.com/playlist?list=PL3tES2o5VicInxpk6rruwwbA9yMoOwQ_X)
+
 2. [AUTODESK - Fusion 360 시작하기](https://www.autodesk.co.kr/products/fusion-360/learn-training-tutorials)
-2. [Fusion 360 3D Sketch Modeling](https://www.youtube.com/playlist?list=PLjyiWW2QlmFwUgSxZJONo1uoyN23CksZ4)
+
+3. [Fusion 360 3D Sketch Modeling](https://www.youtube.com/playlist?list=PLjyiWW2QlmFwUgSxZJONo1uoyN23CksZ4)
+
+#### Documents
+
+1. [Introduction.pdf](https://github.com/hyuni/FABLAB/raw/master/download/Fusion%20360%20Documents/01_Introduction.pdf)
+2. [Sketch.pdf](https://github.com/hyuni/FABLAB/raw/master/download/Fusion%20360%20Documents/02_Sketch.pdf)
+3. [Sculpting.pdf](https://github.com/hyuni/FABLAB/raw/master/download/Fusion%20360%20Documents/03_Sculpting.pdf)
+4. [Model.pdf](https://github.com/hyuni/FABLAB/raw/master/download/Fusion%20360%20Documents/04_Model.pdf)
+5. [Manage.pdf](https://github.com/hyuni/FABLAB/raw/master/download/Fusion%20360%20Documents/05_Manage.pdf)
+6. [Assemblies.pdf](https://github.com/hyuni/FABLAB/raw/master/download/Fusion%20360%20Documents/06_Assemblies.pdf)
+7. [Render.pdf](https://github.com/hyuni/FABLAB/raw/master/download/Fusion%20360%20Documents/07_Render.pdf)
+8. [Drawings.pdf](https://github.com/hyuni/FABLAB/raw/master/download/Fusion%20360%20Documents/08_Drawings.pdf)
+9. [CAM.pdf](https://github.com/hyuni/FABLAB/raw/master/download/Fusion%20360%20Documents/09_CAM.pdf)
+
+
 
 
 	
