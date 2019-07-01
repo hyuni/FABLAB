@@ -1,4 +1,12 @@
-# Funsion 360
+---
+title: "5강 Fusion 360을 통한 3D Modeling 이해"
+categories:
+  - FABLAB
+tags:
+  - Fusion 360
+---
+
+# Fusion 360
 
 
 #### 뷰의 기본 조작법
