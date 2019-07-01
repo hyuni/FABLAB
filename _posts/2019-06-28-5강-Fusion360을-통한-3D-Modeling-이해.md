@@ -109,5 +109,11 @@ tags:
 1. 	Body 에 또 다른 스케치를 생성하여 같은 방향 으로 그려나갈수 있음.
 2. Construct -> Offset Plane 으로 같은 방향의 높이가 다른 그림을 그릴수 있음.
 
+### 참고 동영상 및 사이트
+1. [다은쌤의 Fusion 360 강의 - 기초, 기능별 배우기](https://www.youtube.com/playlist?list=PL3tES2o5VicInxpk6rruwwbA9yMoOwQ_X)
+2. [AUTODESK - Fusion 360 시작하기](https://www.autodesk.co.kr/products/fusion-360/learn-training-tutorials)
+2. [Fusion 360 3D Sketch Modeling](https://www.youtube.com/playlist?list=PLjyiWW2QlmFwUgSxZJONo1uoyN23CksZ4)
+
+
 	
 [^Dimension Tips]: Circle 의 경우 지름이 기본이지만 마우스 오른쪽 클릭하여 반지름으로 단위를 변경 가능.
