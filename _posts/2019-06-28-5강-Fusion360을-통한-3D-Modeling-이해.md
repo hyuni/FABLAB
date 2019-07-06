@@ -139,6 +139,14 @@ tags:
 
 2. [Fusion 360 Plugins Collection](https://tapnair.github.io/)
 
+3. [Parameter I/O](https://apps.autodesk.com/FUSION/en/Detail/Index?id=1801418194626000805&appLang=en&os=Mac&autostart=true) ==> OSX install failed.
 
+4. ***[Parameter I/O Github](https://github.com/AutodeskFusion360/ParameterIO_Python)***
+
+5. ***[Install scripts or addins from GitHub](https://apps.autodesk.com/FUSION/en/Detail/Index?id=789800822168335025&appLang=en&os=Mac)*** ==> OSX install failed.
+
+6. ***[ParamEdit - UI Form for Editing Fusion User Parameters in Fusion 360](https://github.com/tapnair/ParamEdit)***
+
+7. ***[FusionSheeter - Google Sheets Connector for Fusion 360](https://github.com/tapnair/FusionSheeter)***
 
 [^Dimension Tips]: Circle 의 경우 지름이 기본이지만 마우스 오른쪽 클릭하여 반지름으로 단위를 변경 가능.
