@@ -105,7 +105,7 @@ tags:
 3. Shell
 	- 둥근 모서리를 적용하고픈 경우 먼저 Fillet 을 준후, Shell 을 사용
 
-	
+
 ### Tips
 1. 	Body 에 또 다른 스케치를 생성하여 같은 방향 으로 그려나갈수 있음.
 2. Construct -> Offset Plane 으로 같은 방향의 높이가 다른 그림을 그릴수 있음.
@@ -116,7 +116,9 @@ tags:
 
 2. [AUTODESK - Fusion 360 시작하기](https://www.autodesk.co.kr/products/fusion-360/learn-training-tutorials)
 
-3. [Fusion 360 3D Sketch Modeling](https://www.youtube.com/playlist?list=PLjyiWW2QlmFwUgSxZJONo1uoyN23CksZ4)
+3. [Youtube - Fusion 360 Sketching](https://www.youtube.com/watch?v=J_2If5zVp84&list=PLmA_xUT-8UlLx4mcCK62PNW2fz4K4_Rxy)
+
+4. [Fusion 360 3D Sketch Modeling](https://www.youtube.com/playlist?list=PLjyiWW2QlmFwUgSxZJONo1uoyN23CksZ4)
 
 #### Documents
 
@@ -131,7 +133,12 @@ tags:
 9. [CAM.pdf](https://github.com/hyuni/FABLAB/raw/master/download/Fusion%20360%20Documents/09_CAM.pdf)
 
 
+### Plugins
+
+1. [Autodesk App Store for Autodesk Fusion 360](https://apps.autodesk.com/FUSION/en/Home/Index)
+
+2. [Fusion 360 Plugins Collection](https://tapnair.github.io/)
 
 
-	
+
 [^Dimension Tips]: Circle 의 경우 지름이 기본이지만 마우스 오른쪽 클릭하여 반지름으로 단위를 변경 가능.
