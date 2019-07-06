@@ -1,9 +1,9 @@
 ---
-title: "Fusion 360 을 통한 3D Modeling 실습"
+title: "6강 Fusion 360 을 통한 3D Modeling 실습"
 categories:
-	- FABLAB
+  - FABLAB
 tags:
-	- Fusion 360
+  - Fusion 360
 ---
 
 
