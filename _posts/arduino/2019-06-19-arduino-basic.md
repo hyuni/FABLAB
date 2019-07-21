@@ -1,12 +1,12 @@
 ---
-title: "Arduino Basic"
+title: "Arduino Basic #1"
 categories:
   - Arduino
 tags:
   - Arduino
 ---
 
-# Arduino Basic
+# Arduino Basic #1
 
 ### 기본 함수
 1. setup 함수
@@ -21,7 +21,7 @@ tags:
 
 ### LED 점멸
 
-  ```arduino
+  ```cpp
   void setup() {
     // put your setup code here, to run once:
     pinMode(13, OUTPUT);
@@ -40,7 +40,7 @@ tags:
 
 ### 초록, 노랑, 빨강 LED 점멸
 
-```arduino
+```cpp
 void setup() {
   // put your setup code here, to run once:
   pinMode(11, OUTPUT);
@@ -79,7 +79,7 @@ void loop() {
 
 ### PWM 으로 LED 밝기 조절
 
-```arduino
+```cpp
 int LED1 = 10;
 int LED2 = 11;
 
@@ -110,7 +110,7 @@ void loop() {
 
 
 ### RGB LED 제어
-```arduino
+```cpp
 int RED = 9;
 int GREEN = 10;
 int BLUE = 11;
@@ -146,7 +146,7 @@ void loop() {
 
 
 ### 포토드랜지스터 화재감지기
-```arduino
+```cpp
 int flame = A0;
 int buzzer = 13;
 int val = 0;

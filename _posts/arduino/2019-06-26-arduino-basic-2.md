@@ -1,5 +1,5 @@
 ---
-title: "Arduino Basic"
+title: "Arduino Basic #2"
 categories:
   - Arduino
 tags:
@@ -52,7 +52,7 @@ tags:
      - 아두이노에서는 자체적으로 pinMode()에서 INPUT과 OUTPUT외에도 INPUT_PULLUP이라는 소프트웨어적인 풀업모드를 제공
      - 아두이노 각 핀에는 내부 풀업 저항이 달려 있음
 
-      ```Arduino
+      ```cpp
       int pushButton = 4;
 
       void setup() {
@@ -69,7 +69,7 @@ tags:
 
 ### 온습도 센서(DHT11)
 
-```Arduino
+```cpp
 #include <DHT11.h>
 
 int pin=4;
@@ -105,7 +105,7 @@ void loop() {
 
 ### LCD(LiquidCrystal)
 
-```Arduino
+```cpp
 #include <DHT11.h>
 
 #include <Wire.h>
@@ -167,7 +167,7 @@ void loop() {
 
 ### RTC(DS1302)
 
-```Arduino
+```cpp
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
