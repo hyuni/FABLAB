@@ -289,10 +289,12 @@ defaults:
   - scope:
       path: ""
       type: posts
+      #type: tags
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      # layout: archive
+      author_profile: false
+      read_time: false
       comments: # true
-      share: true
-      related: true
+      share: #true
+      related: #true
