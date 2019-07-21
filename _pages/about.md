@@ -1,5 +1,18 @@
 ---
-permalink: /about/
-title: "About"
-#url: /posts/About.md
+layout: page
+title:  "about me"
+permalink: /about
 ---
+
+## About Me
+
+취미로 등산, 백패킹을 하며 전라도와 제주를 즐겨찾는 소프트웨어 개발자
+
+ - Software Developer
+   - C++
+   - Java
+
+
+ - Mobile Software Developer
+   - Android OS(for Java)
+   - iOS(Objective-C, Swift)
