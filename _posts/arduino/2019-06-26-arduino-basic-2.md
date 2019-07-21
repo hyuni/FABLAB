@@ -3,7 +3,17 @@ title: "Arduino Basic"
 categories:
   - Arduino
 tags:
-  - Arduino, 플로팅현상, 풀업 저항, 풀다운 저항, INPUT_PULLUP, 온습도센서, DHT11, LiquidCrystal, LCD, RTC, DS1302
+  - Arduino
+  - 플로팅현상
+  - 풀업 저항
+  - 풀다운 저항
+  - INPUT_PULLUP
+  - 온습도센서
+  - DHT11
+  - LiquidCrystal
+  - LCD
+  - RTC
+  - DS1302
 ---
 
 # Arduino Basic #2
