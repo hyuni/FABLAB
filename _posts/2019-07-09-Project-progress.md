@@ -47,3 +47,25 @@ tags:
 4. 모델링된 이미지
 
 	![Screenshot - Drone frame](https://github.com/hyuni/FABLAB/raw/master/download/Project/Drone_frame_v4.png)
+
+
+## Drone S/W
+
+### Arduino
+
+### Drone Controller Android App
+
+1. [HexAirbot 의 HexNanoController_Android](https://github.com/HexAirbot/HexNanoController_Android) 기반으로 SkyRover 프로젝트에서 사용 했으나 그동안 수정된 부분이 반영되어 있지 않음.
+
+2. 따라서 [HexAirbot 의 HexNanoController_Android](https://github.com/HexAirbot/HexNanoController_Android) 기반에서 프로젝트를 fork 후 관련된 코드를 수정해야 함.
+
+
+
+### Reference site 정리
+
+1. [HexAirbot 의 HexNanoController_Android](https://github.com/HexAirbot/HexNanoController_Android)
+   - 2014/8/11 일자의 commit 이 삭제된것으로 보여지며, 그 다음 커밋이 2014/8/15 임.
+
+2. [exxamalte 의 HexNanoController_Android](https://github.com/exxamalte/HexNanoController_Android)
+   - bluetooth connection 기능 추가
+   - base 프로젝트가 HexAirbot 의 HexNanoController_Android 이며, git commit iD 가 ed0fb6744a117930f31ca9c69540c214ac4d3e81 (2014/8/11)
